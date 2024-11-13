@@ -1,5 +1,8 @@
 # Kotlin_Multiplatform
-KotlinMultiplatform app issues
+KotlinMultiplatform app issues </br>
+https://www.youtube.com/watch?v=7Wl-G8aXxDA
+
+
 
 ## Begining -> Unable to compile generated sources ... already defined ...
 https://stackoverflow.com/questions/78359972/i-cant-create-a-new-kotlin-multiplatform-with-android-studio
