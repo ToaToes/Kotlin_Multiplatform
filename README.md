@@ -1,2 +1,2 @@
 # Kotlin_Multiplatform
-KotlinMultiplatform app practice
+KotlinMultiplatform app issues
