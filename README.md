@@ -1,6 +1,9 @@
 # Kotlin_Multiplatform
 KotlinMultiplatform app issues </br>
-https://www.youtube.com/watch?v=7Wl-G8aXxDA
+https://www.jetbrains.com/help/kotlin-multiplatform-dev/multiplatform-setup.html#install-the-necessary-tools <br/>
+https://www.youtube.com/watch?v=7Wl-G8aXxDA  ->
+
+homebrew -> brewinstall kdoctor (checking what is missing for te KMP environment) -> install ruby for cocoapods -> 
 
 
 
